@@ -70,6 +70,7 @@ filegroup {
         "./freedesktop.org/stable/viewporter/viewporter.xml",
         "./freedesktop.org/stable/xdg-shell/xdg-shell.xml",
         "./freedesktop.org/staging/drm-lease/drm-lease-v1.xml",
+        "./freedesktop.org/staging/fractional-scale/fractional-scale-v1.xml",
         "./freedesktop.org/staging/xdg-activation/xdg-activation-v1.xml",
         "./freedesktop.org/unstable/fullscreen-shell/fullscreen-shell-unstable-v1.xml",
         "./freedesktop.org/unstable/idle-inhibit/idle-inhibit-unstable-v1.xml",
